@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trains>
+  <train>
+    <Train_number>1</Train_number>
+    <Name>Андрієнко Андрій Андрійович</Name>
+    <Inventary_number>ФВ-4216</Inventary_number>
+    <Car_quantity>3</Car_quantity>
+  </train>
+  <train>
+    <Train_number>2</Train_number>
+    <Name>Васильченко Василь Васильович</Name>
+    <Inventary_number>УМ-1415</Inventary_number>
+    <Car_quantity>4</Car_quantity>
+  </train>
+  <train>
+    <Train_number>3</Train_number>
+    <Name>Ігоренко Ігор Ігорович</Name>
+    <Inventary_number>КА-9517</Inventary_number>
+    <Car_quantity>2</Car_quantity>
+  </train>
+  <train>
+    <Train_number>6</Train_number>
+    <Name>Валерієнко Валерій Валерійович</Name>
+    <Inventary_number>СВ-0001</Inventary_number>
+    <Car_quantity>0</Car_quantity>
+  </train>
+  <train>
+    <Train_number>4</Train_number>
+    <Name>Сергієнко Сергій Сергійович</Name>
+    <Inventary_number>СП-9091</Inventary_number>
+    <Car_quantity>3</Car_quantity>
+  </train>
+  <train>
+    <Train_number>5</Train_number>
+    <Name>Максименко Максим Максимович</Name>
+    <Inventary_number>ЮА-7500</Inventary_number>
+    <Car_quantity>5</Car_quantity>
+  </train>
+</trains>

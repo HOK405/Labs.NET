@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <Train_number>1</Train_number>
+    <Type>Купе</Type>
+    <Seat_quantity>20</Seat_quantity>
+  </Car>
+  <Car>
+    <Train_number>2</Train_number>
+    <Type>Плацкарт</Type>
+    <Seat_quantity>18</Seat_quantity>
+  </Car>
+  <Car>
+    <Train_number>3</Train_number>
+    <Type>Спальний</Type>
+    <Seat_quantity>16</Seat_quantity>
+  </Car>
+</ArrayOfCar>
