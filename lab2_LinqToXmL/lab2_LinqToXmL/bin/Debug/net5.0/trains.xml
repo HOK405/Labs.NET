@@ -3,7 +3,7 @@
   <train>
     <Train_number>1</Train_number>
     <Name>Андрієнко Андрій Андрійович</Name>
-    <Inventary_number>ФВ-4216</Inventary_number>
+    <Inventary_number>ФВ-4215</Inventary_number>
     <Car_quantity>3</Car_quantity>
   </train>
   <train>
@@ -35,5 +35,11 @@
     <Name>Максименко Максим Максимович</Name>
     <Inventary_number>ЮА-7500</Inventary_number>
     <Car_quantity>5</Car_quantity>
+  </train>
+  <train>
+    <Train_number>7</Train_number>
+    <Name>Юрієнко Юрій Юрійович</Name>
+    <Inventary_number>ЮТ-1751</Inventary_number>
+    <Car_quantity>0</Car_quantity>
   </train>
 </trains>
