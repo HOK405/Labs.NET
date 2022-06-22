@@ -1,0 +1,16 @@
+D:\HOKAIDO\KPI\4 SEM\ОРПЗ .NET\lab4\lab4\bin\Debug\net5.0\lab4.exe
+D:\HOKAIDO\KPI\4 SEM\ОРПЗ .NET\lab4\lab4\bin\Debug\net5.0\lab4.deps.json
+D:\HOKAIDO\KPI\4 SEM\ОРПЗ .NET\lab4\lab4\bin\Debug\net5.0\lab4.runtimeconfig.json
+D:\HOKAIDO\KPI\4 SEM\ОРПЗ .NET\lab4\lab4\bin\Debug\net5.0\lab4.runtimeconfig.dev.json
+D:\HOKAIDO\KPI\4 SEM\ОРПЗ .NET\lab4\lab4\bin\Debug\net5.0\lab4.dll
+D:\HOKAIDO\KPI\4 SEM\ОРПЗ .NET\lab4\lab4\bin\Debug\net5.0\lab4.pdb
+D:\HOKAIDO\KPI\4 SEM\ОРПЗ .NET\lab4\lab4\obj\Debug\net5.0\lab4.csproj.AssemblyReference.cache
+D:\HOKAIDO\KPI\4 SEM\ОРПЗ .NET\lab4\lab4\obj\Debug\net5.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOKAIDO\KPI\4 SEM\ОРПЗ .NET\lab4\lab4\obj\Debug\net5.0\lab4.AssemblyInfoInputs.cache
+D:\HOKAIDO\KPI\4 SEM\ОРПЗ .NET\lab4\lab4\obj\Debug\net5.0\lab4.AssemblyInfo.cs
+D:\HOKAIDO\KPI\4 SEM\ОРПЗ .NET\lab4\lab4\obj\Debug\net5.0\lab4.csproj.CoreCompileInputs.cache
+D:\HOKAIDO\KPI\4 SEM\ОРПЗ .NET\lab4\lab4\obj\Debug\net5.0\lab4.dll
+D:\HOKAIDO\KPI\4 SEM\ОРПЗ .NET\lab4\lab4\obj\Debug\net5.0\refint\lab4.dll
+D:\HOKAIDO\KPI\4 SEM\ОРПЗ .NET\lab4\lab4\obj\Debug\net5.0\lab4.pdb
+D:\HOKAIDO\KPI\4 SEM\ОРПЗ .NET\lab4\lab4\obj\Debug\net5.0\lab4.genruntimeconfig.cache
+D:\HOKAIDO\KPI\4 SEM\ОРПЗ .NET\lab4\lab4\obj\Debug\net5.0\ref\lab4.dll
